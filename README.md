@@ -29,26 +29,24 @@ This project started as a way for me to explore how React can be used to build r
 
 
 # Folder Structure
-   PersonalFinanceManager/
-   ├── public/
-   │   ├── index.html
-   │   ├── mylogo.png
-   ├── src/
-   │   ├── components/
-   │   │   ├── BalanceCard.js
-   │   │   ├── Charts.js
-   │   │   ├── Header.js
-   │   │   ├── TransactionForm.js
-   │   │   └── TransactionList.js
-   │   ├── context/
-   │   │   └── ThemeContext.js
-   │   ├── App.css
-   │   ├── App.js
-   │   ├── index.css
-   │   ├── index.js
-   ├── .gitignore
-   ├── package-lock.json
-   ├── package.json
+PersonalFinanceManager/
+├── public/
+│ └── index.html
+├── src/
+│ ├── components/
+│ │ ├── BalanceCard.js
+│ │ ├── Charts.js
+│ │ ├── Header.js
+│ │ ├── TransactionForm.js
+│ │ └── TransactionList.js
+│ ├── context/
+│ │ └── ThemeContext.js
+│ ├── App.js
+│ ├── App.css
+│ ├── index.js
+│ └── index.css
+├── package.json
+└── README.md
 
 
 # Tech Stack
